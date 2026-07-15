@@ -1,0 +1,5 @@
+api_key.txt
+.env
+*.hdf5
+*.log
+*.npz
